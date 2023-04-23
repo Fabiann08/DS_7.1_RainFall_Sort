@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS_7.1_RainFall_Sort", "DS_7.1_RainFall_Sort\DS_7.1_RainFall_Sort.vcxproj", "{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Debug|x64.ActiveCfg = Debug|x64
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Debug|x64.Build.0 = Debug|x64
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Debug|x86.Build.0 = Debug|Win32
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Release|x64.ActiveCfg = Release|x64
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Release|x64.Build.0 = Release|x64
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Release|x86.ActiveCfg = Release|Win32
+		{EF8CE788-E52E-4CFF-8085-EE6FF0B3FFF7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6CE75E-7954-499C-B596-2C54A8F7E13D}
+	EndGlobalSection
+EndGlobal
